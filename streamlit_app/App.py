@@ -320,7 +320,7 @@ with col3:
 # every time the user interacts with a widget
 @st.cache_data
 def load_data():
-    return pd.read_csv('data/flights_clean.csv')
+    return pd.read_csv('Data/flights_clean.csv')
 
 df = load_data()
 
