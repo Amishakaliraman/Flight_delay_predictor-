@@ -1,0 +1,11 @@
+airline,avg_weather_delay,avg_carrier_delay,avg_nas_delay,avg_late_aircraft
+Spirit,7.6,13.3,6.7,5.7
+Frontier,7.3,12.4,6.5,6.4
+Allegiant,7.5,11.2,6.4,6.9
+Alaska,8.1,8.4,6.7,10.5
+United,7.3,8.0,6.4,10.2
+American,7.4,8.0,6.4,10.3
+JetBlue,7.3,7.9,6.3,10.1
+Southwest,7.2,7.7,6.2,9.9
+Hawaiian,7.2,7.7,6.1,9.7
+Delta,7.0,7.6,6.1,9.6

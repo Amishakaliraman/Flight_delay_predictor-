@@ -1,0 +1,2 @@
+total_flights,avg_arrival_delay_mins,delay_rate_percent,cancel_rate_percent
+50000,10.76,32.18,2.98

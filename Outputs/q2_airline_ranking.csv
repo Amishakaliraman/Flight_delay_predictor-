@@ -1,0 +1,11 @@
+airline,Total_flights,avg_delay_mins,delay_rate_pct,cancel_rate_pct,delay_rank
+Spirit,2648,14.57,38.9,4.57,1
+Frontier,2002,14.17,37.9,4.9,2
+Allegiant,1946,12.57,34.8,4.47,3
+JetBlue,3444,11.84,35.0,2.79,4
+American,8538,11.74,34.0,2.71,5
+United,7372,11.3,33.1,2.7,6
+Southwest,9998,10.36,31.7,2.65,7
+Hawaiian,2040,9.33,30.4,3.04,8
+Alaska,2966,9.19,27.5,2.8,9
+Delta,9046,8.08,27.3,2.75,10

@@ -1,0 +1,16 @@
+route,total_flights,avg_delay_mins,delay_rate_pct
+AUS to LAS,52,28.9,51.9
+DCA to SFO,53,23.5,60.4
+MCO to BOS,55,23.2,40.0
+MSP to STL,51,20.8,41.2
+SFO to DCA,54,19.9,37.0
+CLT to MDW,59,19.6,55.9
+PHX to PDX,57,19.6,50.9
+LAX to ATL,62,19.5,50.0
+MCO to SLC,56,19.4,53.6
+SFO to IAH,61,19.1,44.3
+CLT to DTW,54,18.5,48.1
+DEN to PHX,52,18.4,36.5
+HNL to LAS,60,18.4,35.0
+ORD to SEA,54,18.4,46.3
+ATL to EWR,59,18.3,39.0
